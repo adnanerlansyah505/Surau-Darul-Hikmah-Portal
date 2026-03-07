@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Air Mineral Sejuk (Botol)",
+    "price": 2500,
+    "description": "Air mineral sejuk untuk jamaah selepas solat atau program.",
+    "image": "/images/products/water-bottle.png",
+    "category": "Minuman"
+  },
+  {
+    "name": "Kopi Panas",
+    "price": 4000,
+    "description": "Kopi panas freshly brewed sesuai untuk program malam dan usrah.",
+    "image": "/images/products/coffe.png",
+    "category": "Minuman"
+  },
+  {
+    "name": "Kurma Ajwa (Pek Kecil)",
+    "price": 12000,
+    "description": "Kurma Ajwa berkualiti sebagai juadah ringan sebelum atau selepas solat.",
+    "image": "/images/products/kurma-ajwa.png",
+    "category": "Makanan"
+  },
+  {
+    "name": "Buku Doa Harian Muslim",
+    "price": 18000,
+    "description": "Kompilasi doa-doa harian ringkas untuk rujukan seisi keluarga.",
+    "image": "/images/products/book-daily-dhua.png",
+    "category": "Buku"
+  },
+  {
+    "name": "T-shirt Program Surau",
+    "price": 35000,
+    "description": "T-shirt eksklusif program Surau Darul Hikmah untuk para sukarelawan dan penyokong.",
+    "image": "/images/products/tshirt.png",
+    "category": "Cenderahati"
+  }
+]
+
