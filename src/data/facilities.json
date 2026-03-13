@@ -1,39 +1,9 @@
 [
   {
-    "title": "Ruang Solat Berhawa Dingin",
-    "description": "Ruang solat utama yang selesa dengan sistem penghawa dingin dan pencahayaan yang baik.",
+    "title": "Ruang Solat Yang Nyaman",
+    "description": "Ruang solat utama yang sangat nyaman karena menyediakan sajadah yang empuk dan hangat.",
     "iconName": "ac",
-    "imageUrl": "/images/facilities/main-hall.png"
-  },
-  {
-    "title": "Tempat Letak Kenderaan",
-    "description": "Ruang parkir teratur di kawasan sekeliling surau untuk memudahkan para jamaah.",
-    "iconName": "parking",
-    "imageUrl": "/images/facilities/parking.png"
-  },
-  {
-    "title": "Akses WiFi Komuniti",
-    "description": "Sambungan internet asas untuk kegunaan kelas pengajian dan program komuniti tertentu.",
-    "iconName": "wifi",
-    "imageUrl": "/images/facilities/wifi.png"
-  },
-  {
-    "title": "Ruang Kuliah & Usrah",
-    "description": "Bilik khas untuk kelas fardu ain, pengajian kitab dan sesi usrah berkala.",
-    "iconName": "classroom",
-    "imageUrl": "/images/facilities/classroom.png"
-  },
-  {
-    "title": "Pantri & Hidangan Ringan",
-    "description": "Kemudahan pantri untuk penyediaan minuman dan jamuan ringkas selepas program.",
-    "iconName": "kitchen",
-    "imageUrl": "/images/facilities/pantry.png"
-  },
-  {
-    "title": "Kemudahan Wuduk & Tandas",
-    "description": "Kemudahan wuduk dan tandas yang dijaga kebersihannya untuk keselesaan jamaah.",
-    "iconName": "wudu",
-    "imageUrl": "/images/facilities/wudu.png"
+    "imageUrl": "/images/facilities/main-hall.jpg"
   }
 ]
 

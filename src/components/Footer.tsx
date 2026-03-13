@@ -22,13 +22,13 @@ const Footer: React.FC = () => {
                 Surau Darul Hikmah
               </span>
               <span className="text-xs text-slate-500">
-                Ilmu, Amal & Komuniti
+                Ilmu & Amal Jariyah
               </span>
             </div>
           </div>
           <p className="max-w-xs text-sm text-slate-600">
             Surau Darul Hikmah yang berperanan sebagai pusat ibadah, ilmu dan
-            kebajikan untuk komuniti setempat.
+            kebajikan untuk masyarakat setempat.
           </p>
         </div>
 
@@ -72,25 +72,19 @@ const Footer: React.FC = () => {
                 Address
               </div>
               <p className="max-w-xs text-slate-600">
-                Surau Darul Hikmah,
-                <br />
-                Kel. Sukagalih,
-                <br />
-                Kec.Sukajadi Kota Bandung,
-                <br />
-                Jawa Barat.
+                Jl. Sutan alambagarsyah, Jorong Kampung Tangah, Nagari Pagaruyung, Kecamatan Tanjung Emas Kabupaten Tanah Datar
               </p>
             </div>
           </div>
         </div>
 
         {/* Column 4: Social Media */}
-        <div>
+        {/* <div>
           <h3 className="text-xs font-semibold uppercase tracking-wide text-slate-500">
             Social Media
           </h3>
           <p className="mt-1 text-xs text-slate-500">
-            Ikuti aktiviti dan program terkini.
+            Ikuti aktifitas dan kajian terkini.
           </p>
           <div className="mt-4 flex gap-3">
             <a
@@ -103,7 +97,7 @@ const Footer: React.FC = () => {
               <Instagram className="h-4 w-4" />
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
 
       <div className="border-t border-slate-200 bg-slate-50">

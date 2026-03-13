@@ -1,38 +1,7 @@
 [
   {
-    "eventName": "Kuliah Maghrib Mingguan",
-    "day": "Friday",
-    "time": "Maghrib - Isyak",
-    "location": "Dewan Solat Utama",
-    "speaker": "Ustaz Ahmad bin Ali"
-  },
-  {
-    "eventName": "Kelas Asas Fardu Ain (Remaja)",
-    "day": "Saturday",
-    "time": "9:00 AM - 11:00 AM",
-    "location": "Ruang Kuliah 1",
-    "speaker": "Ustazah Nur Aisyah"
-  },
-  {
     "eventName": "Kelas Iqra' & Al-Quran Kanak-kanak",
-    "day": "Sunday",
-    "time": "10:00 AM - 12:00 PM",
-    "location": "Ruang Kuliah 2",
-    "speaker": "Encik Amirul Hakim"
-  },
-  {
-    "eventName": "Usrah Keluarga Bulanan",
-    "day": "Last Saturday",
-    "time": "8:30 PM - 10:30 PM",
-    "location": "Dewan Solat Utama",
-    "speaker": "Penceramah Jemputan"
-  },
-  {
-    "eventName": "Program Qiamullail",
-    "day": "First Friday",
-    "time": "4:30 AM - Subuh",
-    "location": "Dewan Solat Utama",
-    "speaker": "Panel Asatizah"
+    "location": "Ruang Utama"
   }
 ]
 
