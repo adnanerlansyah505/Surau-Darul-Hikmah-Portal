@@ -1,11 +1,58 @@
 ---
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero';
+import AboutSection from '../components/AboutSection';
+import FacilityGallery from '../components/FacilityGallery.astro';
+import EventTable from '../components/EventTable.astro';
+import ManagementGrid from '../components/ManagementGrid.astro';
+import ProductCard from '../components/ProductCard.astro';
+import FaqSection from '../components/FaqSection';
+import ContactSection from '../components/ContactSection';
+import BlogGrid from '../components/BlogGrid';
+import { getCollection } from 'astro:content';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const posts = await getCollection('blog');
 ---
 
 <Layout>
-	<Welcome />
+	<Hero client:load />
+	<AboutSection client:visible />
+
+	<FacilityGallery />
+	<EventTable />
+	<!-- <ManagementGrid /> -->
+	<!-- <ProductCard /> -->
+
+	<!-- <section
+		id="articles"
+		class="section-padding bg-slate-50"
+	>
+		<div class="container-page">
+			<div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+				<div>
+					<h2 class="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">
+						Artikel & Perkongsian
+					</h2>
+					<p class="mt-2 text-sm text-slate-600 sm:text-base">
+						Baca ringkasan tazkirah, pengumuman program dan perkongsian ilmu terkini
+						dari Surau Darul Hikmah.
+					</p>
+				</div>
+				<a
+					href="/blog/"
+					class="mt-2 inline-flex items-center text-xs font-medium text-slate-200 underline-offset-4 hover:text-primary hover:underline sm:text-sm"
+				>
+					Lihat semua artikel
+				</a>
+			</div>
+
+			<BlogGrid
+				client:visible
+				posts={posts}
+			/>
+		</div>
+	</section> -->
+
+	<!-- <FaqSection client:visible /> -->
+	<!-- <ContactSection client:visible /> -->
 </Layout>

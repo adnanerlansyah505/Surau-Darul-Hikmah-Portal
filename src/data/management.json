@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Ustaz Ahmad bin Ali",
+    "role": "Pengurus",
+    "photo": "/images/management/manager-1.png",
+    "hierarchyOrder": 1
+  },
+  {
+    "name": "Encik Faris bin Rahman",
+    "role": "Timbalan Pengurus",
+    "photo": "/images/management/manager-2.png",
+    "hierarchyOrder": 2
+  },
+  {
+    "name": "Ustazah Nur Aisyah",
+    "role": "Marbot",
+    "photo": "/images/management/manager-3.png",
+    "hierarchyOrder": 3
+  },
+  {
+    "name": "Encik Hafiz bin Karim",
+    "role": "Bendahara",
+    "photo": "/images/management/manager-4.png",
+    "hierarchyOrder": 4
+  },
+  {
+    "name": "Puan Siti Mariam",
+    "role": "Ketua Muslimat",
+    "photo": "/images/management/manager-5.png",
+    "hierarchyOrder": 5
+  },
+  {
+    "name": "Encik Amirul Hakim",
+    "role": "Koordinator Program",
+    "photo": "/images/management/manager-6.png",
+    "hierarchyOrder": 6
+  }
+]
+
