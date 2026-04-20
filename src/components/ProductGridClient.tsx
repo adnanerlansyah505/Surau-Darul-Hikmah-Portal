@@ -3,7 +3,7 @@ import products from '../data/products.json';
 
 type ProductItem = (typeof products)[number];
 
-const WHATSAPP_NUMBER = '6282211142682';
+const WHATSAPP_NUMBER = '6285271222359';
 
 const ProductGridClient = () => {
   return (

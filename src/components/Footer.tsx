@@ -61,10 +61,11 @@ const Footer: React.FC = () => {
             <div>
               <div className="text-xs font-semibold text-slate-500">Phone</div>
               <a
-                href="tel:+6282211142682"
+                href="https://wa.me/6285271222359"
                 className="text-slate-900 transition hover:text-primary"
+                target="_blank"
               >
-                +6282211142682
+                +6285271222359
               </a>
             </div>
             <div>
